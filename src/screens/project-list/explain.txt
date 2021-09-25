@@ -1,0 +1,1 @@
+components的东西也可以放在这里，缺点是screens外部不可以复用
